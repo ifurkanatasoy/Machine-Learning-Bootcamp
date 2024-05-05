@@ -1,2 +1,3 @@
 # Machine Learning Bootcamp
- Global AI Hub Machine Learning Bootcamp Project
+
+Regression implementation for house price prediction.
